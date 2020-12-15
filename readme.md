@@ -7,8 +7,4 @@
 
 效果图：
 
-![效果图：][https://github.com/windbell233/FlappyBird/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E5%BC%80%E5%A7%8B%E7%95%8C%E9%9D%A2.jpg](https://github.com/windbell233/FlappyBird/blob/master/效果图/开始界面.jpg)
-
-![][https://github.com/windbell233/FlappyBird/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%B8%B8%E6%88%8F%E7%94%BB%E9%9D%A2.jpg](https://github.com/windbell233/FlappyBird/blob/master/效果图/游戏画面.jpg)
-
-![][https://github.com/windbell233/FlappyBird/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%B8%B8%E6%88%8F%E7%94%BB%E9%9D%A2.jpg](https://github.com/windbell233/FlappyBird/blob/master/效果图/结束画面.jpg)
+![]([https://github.com/windbell233/FlappyBird/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E5%BC%80%E5%A7%8B%E7%95%8C%E9%9D%A2.jpg](https://github.com/windbell233/FlappyBird/blob/master/效果图/开始界面.jpg))
