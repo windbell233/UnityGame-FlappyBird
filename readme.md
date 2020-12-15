@@ -5,3 +5,4 @@
 
 游戏玩法：玩家需要躲避柱子从柱子中间穿过得分并且避免落地。
 
+![效果](https://github.com/windbell233/FlappyBird/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E5%BC%80%E5%A7%8B%E7%95%8C%E9%9D%A2.jpg)
